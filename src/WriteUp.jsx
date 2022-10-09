@@ -36,7 +36,7 @@ function WriteUp({id,clickhandler}) {
         the potential energy that would trap them,</div>
         <div className="footer">
             <div className="likes">Liked 201</div>
-            <div className="views">Views 12K</div>
+            <div className="views">Views 12k</div>
             <div className="share"><ShareIcon/></div>
         </div>
     </div>
